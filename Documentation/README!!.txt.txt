@@ -1,0 +1,1 @@
+The documentation is inside of the "Documentation.zip" file. Please extract this file OUTSIDE OF UNITY, because it contains Javascript file that have nothing to do with the Unity's "Javascript", and will lead to some compilation errors.
